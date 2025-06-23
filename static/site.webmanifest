@@ -1,0 +1,21 @@
+{
+  "name": "Fabalos Automation",
+  "short_name": "Fabalos",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563EB",
+  "background_color": "#F8FAFC",
+  "description": "Smart, elegant automation systems built with GPT, n8n, and Make.com.",
+  "icons": [
+    {
+      "src": "/web-app-manifest-192x192.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/web-app-manifest-512x512.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
